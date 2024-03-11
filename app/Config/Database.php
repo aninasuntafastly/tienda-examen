@@ -28,7 +28,7 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => 'tienda-db-anr.cpquuamm8ams.us-east-1.rds.amazonaws.com',
         'username'     => 'root',
-        'password'     => '12345678',
+        'password'     => '123456789',
         'database'     => 'tienda_db',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
